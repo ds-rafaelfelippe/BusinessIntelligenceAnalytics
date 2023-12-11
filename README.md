@@ -4,7 +4,7 @@ Esse é um projeto de Business Intelligence.
 
 Os conjuntos de dados utilizados estão disponíveis no repositório "Bases".
 
-Para visualizar e interagir com o dashboard completo acesse [este link](https://rafaelgfelippe.github.io/portfolio-details.html). 
+Para visualizar e interagir com o dashboard completo acesse [este link](https://ds-rafaelfelippe.github.io/portfolio-details.html). 
 
 # Entendimento do Negócio
 
